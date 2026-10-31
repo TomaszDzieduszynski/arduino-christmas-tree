@@ -2,8 +2,6 @@
 
 Still don't have a Christmas tree? Don't panic! Grab an Arduino, some jumper wires and let's do it!
 
-_Originally published on 12 December 2021._
-
 ![Arduino Christmas Tree](images/cover.jpg)
 
 I saw many Arduino-based Christmas decorations. Most of them focused mainly on hiding the jumper wires as well as possible. Why do it, though? Can't the wires be the core of the project? In my tree you don't need to hide anything: the wires are the branches and roots of the tree. The Arduino could be a neat gift hiding underneath!
@@ -54,5 +52,7 @@ Press the button to switch between the three animations:
 - [Arduino Project Hub](https://projecthub.arduino.cc/bzqp/simple-christmas-tree-f37052)
 
 ## License
+
+Originally published on 12 December 2021.
 
 Simple Arduino Christmas Tree by bzqp is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license (CC BY-NC 4.0). See [LICENSE](LICENSE).
